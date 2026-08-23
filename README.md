@@ -1,4 +1,15 @@
-In order to ensure my programs are maintainable, readable, and adaptable I had to follow Pep 8 Style Guide guidelines and rules. This ensures consistency and readability throughout the prog. For example, I made sure the variables name were considered meaningful so any user can infer the meaning of the variables. I also ensure that it followed the correct layout by including the needed comments, correct indentation, and spaces between different parts of the program. It made it easier to break the project into smaller pieces with each method serving a specific function. 
-I must approach a problem as a computer scientist with an open mind with the users’ requirements, the most important priority of the program. For this project I had to understand what the user wanted to use the database and dashboard for to help visualize, sort, and search through different animals that are suitable for training for specific reasons. This project is different from other assignments because it utilizes a map and visual graphs such as a pie chart. I had to figure out how to intertwine all these different components that control both logic and how the database looks. 
-Computer scientists are vital in today’s era, since they design and build different computer systems that can help solve different problems more efficiently and effectively. In the project, it helped find specific animals for certain search and rescue missions that could have otherwise taken days for someone to research by hand. It shows how useful technology is real world applications. 
+# CS340: Client/Server Development
 
+## Overview
+This project involved building a dashboard and backend for an animal shelter, allowing users to visualize, sort, and search through animals based on rescue training suitability. The database backend handles data storage and retrieval, while the dashboard provides interactive visualizations, including a geolocation map and pie chart, to help users explore the data.
+
+## Reflection
+Following the PEP 8 style guide was central to keeping the program maintainable, readable, and adaptable. Meaningful variable names, consistent indentation, clear comments, and well-organized spacing made it easier to break the project into smaller pieces, with each method serving a specific function.
+
+My approach to any problem as a computer scientist starts with an open mind, with the user's requirements as the top priority. For this project, that meant understanding how the user wanted to use the database and dashboard to visualize, sort, and search through animals suited for specific training purposes. Combining the map and chart visualizations with the underlying database logic required figuring out how each component should interact, both in logic and in layout.
+
+## Skills Demonstrated
+- Database design and querying
+- Dashboard and data visualization
+- PEP 8 style compliance
+- Requirements analysis
